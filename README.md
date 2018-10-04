@@ -29,7 +29,5 @@ source venv/bin/activate
 - Navigate to working directory
 - run ```pip install -r requirements.txt```
 * To run the project
-- run ```shell
-jupyter notebook
-```
+- run ```shelljupyter notebook```
 
