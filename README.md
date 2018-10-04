@@ -30,6 +30,5 @@ source venv/bin/activate
 - run ```pip install -r requirements.txt```
 * To run the project
 - run ```shell
- source venv/bin/activate
-```
+jupyter notebook```
 
