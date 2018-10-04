@@ -30,4 +30,5 @@ source venv/bin/activate
 - run ```pip install -r requirements.txt```
 * To run the project
 - run ```jupyter notebook```
+* The name of the project file is: "Info Scout Content Engineer Interview.ipynb"
 
